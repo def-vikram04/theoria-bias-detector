@@ -1,0 +1,67 @@
+[
+  {
+    "bias_name": "Framing Bias",
+    "definition": "Framing Bias occurs when wording or emphasis leads to a skewed perception of facts or options.",
+    "examples": [
+      "90% fat-free vs 10% fat",
+      "We must accept deaths to save the economy"
+    ],
+    "explanation": "Framing focuses attention on specific angles while ignoring others, influencing how people perceive choices and risks.",
+    "suggestions": [
+      "Use neutral, balanced wording.",
+      "Explicitly state alternative frames."
+    ]
+  },
+  {
+    "bias_name": "Confirmation Bias",
+    "definition": "Confirmation Bias is the tendency to seek, interpret, or recall information in ways that confirm existing beliefs.",
+    "examples": [
+      "Citing only studies that support your argument.",
+      "Ignoring contradictory evidence in policy papers."
+    ],
+    "explanation": "Writers may cherry-pick data or selectively emphasize evidence that aligns with their position, leading to one-sided reasoning.",
+    "suggestions": [
+      "Present evidence for and against your claims.",
+      "Acknowledge uncertainty or alternative explanations."
+    ]
+  },
+  {
+    "bias_name": "Anchoring Bias",
+    "definition": "Anchoring Bias occurs when people rely too heavily on the first piece of information they receive (the 'anchor') when making decisions.",
+    "examples": [
+      "Sticking to early COVID fatality estimates despite new data.",
+      "Budget negotiations fixating on initial proposed numbers."
+    ],
+    "explanation": "Anchoring can distort reasoning by preventing proper updates when new evidence emerges.",
+    "suggestions": [
+      "Clearly state uncertainty ranges.",
+      "Re-evaluate conclusions as new data arrives."
+    ]
+  },
+  {
+    "bias_name": "Overconfidence Bias",
+    "definition": "Overconfidence Bias is the tendency to express more certainty in conclusions than is justified by the evidence.",
+    "examples": [
+      "Claiming a strategy will definitely work without acknowledging risks.",
+      "Dismissing the possibility of error in forecasts."
+    ],
+    "explanation": "Overconfidence can mislead readers by minimizing complexity and ignoring alternative outcomes.",
+    "suggestions": [
+      "Use cautious language like 'might', 'could', or 'suggests'.",
+      "Explicitly discuss limitations and uncertainties."
+    ]
+  },
+  {
+    "bias_name": "Emotional / Loaded Language",
+    "definition": "Emotional or Loaded Language Bias occurs when words are chosen to provoke strong emotions rather than convey neutral information.",
+    "examples": [
+      "Describing protestors as 'thugs' vs 'demonstrators'.",
+      "Using terms like 'disaster', 'betrayal', 'heroic'."
+    ],
+    "explanation": "Such language can sway readers emotionally rather than encouraging rational evaluation.",
+    "suggestions": [
+      "Use neutral, descriptive terms.",
+      "Avoid emotionally charged words unless justified."
+    ]
+  }
+]
