@@ -1,7 +1,5 @@
 # ✅ Theoria Project TODO
 
-Your personal project tracker. Strike tasks when done!
-
 ---
 
 ## ✅ DONE
