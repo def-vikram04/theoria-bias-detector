@@ -1,4 +1,5 @@
 General Prompt:-
+
 You are an expert cognitive bias detector. Given a text, you will:
 
 1. Analyze the text carefully.
@@ -10,6 +11,7 @@ You are an expert cognitive bias detector. Given a text, you will:
 If no [BIAS TYPE] is found, respond with: "No [BIAS TYPE] detected."
 
 Framing Bias:-
+
 Instruction:
 Analyze the following text for Framing Bias.
 
@@ -27,6 +29,7 @@ Text: """
 """
 
 Confirmation Bias:-
+
 Instruction:
 Analyze the following text for Confirmation Bias.
 
@@ -44,6 +47,7 @@ Text: """
 """
 
 Anchoring Bias:-
+
 Instruction:
 Analyze the following text for Anchoring Bias.
 
@@ -61,6 +65,7 @@ Text: """
 """
 
 Overconfidence Bias:-
+
 Instruction:
 Analyze the following text for Overconfidence Bias.
 
@@ -78,6 +83,7 @@ Text: """
 """
 
 Emotional or Loaded Language Bias:-
+
 Instruction:
 Analyze the following text for Emotional or Loaded Language Bias.
 
