@@ -10,6 +10,9 @@ You are an expert cognitive bias detector. Given a text, you will:
 
 If no [BIAS TYPE] is found, respond with: "No [BIAS TYPE] detected."
 
+
+
+
 Framing Bias:-
 
 Instruction:
@@ -27,6 +30,9 @@ Steps:
 Text: """
 [INSERT USER TEXT HERE]
 """
+
+
+
 
 Confirmation Bias:-
 
@@ -46,6 +52,9 @@ Text: """
 [INSERT USER TEXT HERE]
 """
 
+
+
+
 Anchoring Bias:-
 
 Instruction:
@@ -64,6 +73,9 @@ Text: """
 [INSERT USER TEXT HERE]
 """
 
+
+
+
 Overconfidence Bias:-
 
 Instruction:
@@ -81,6 +93,9 @@ Steps:
 Text: """
 [INSERT USER TEXT HERE]
 """
+
+
+
 
 Emotional or Loaded Language Bias:-
 
